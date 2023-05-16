@@ -16,7 +16,6 @@
 		"@types/node": "^16.18.27",
 		"@types/react": "^18.2.6",
 		"@types/react-dom": "^18.2.4",
-		"less": "^3.9.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-router-dom": "^6.11.1",
@@ -46,5 +45,11 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"devDependencies": {
+		"css-loader": "^6.7.3",
+		"less": "^3.13.1",
+		"less-loader": "^11.1.0",
+		"style-loader": "^3.3.2"
 	}
 }

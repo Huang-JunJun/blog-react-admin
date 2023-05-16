@@ -1,9 +1,9 @@
-import Button from '@mui/material/Button';
+import Router from '../../router';
 
 export default function Main(props: any) {
 	return (
 		<div>
-			<Button variant='contained'>Hello World</Button>
+			<Router></Router>
 		</div>
 	);
 }

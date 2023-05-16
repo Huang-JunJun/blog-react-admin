@@ -1,9 +1,5 @@
 import Layout from '../components/Layout/Layout';
 
 export default function Home(props: any) {
-	return (
-		<div>
-			<Layout></Layout>
-		</div>
-	);
+	return <div>12344444</div>;
 }
